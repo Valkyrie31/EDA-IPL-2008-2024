@@ -20,10 +20,5 @@ This project explores IPL match data from 2008 to 2024 using Python, Pandas, Mat
 - Analyzed Player of the Match awards to identify the most influential players.
 - Compared team performances across different IPL seasons.
 
-## Project Highlights
-✔ Data Cleaning & Preprocessing  
-✔ Exploratory Data Analysis (EDA)  
-✔ Statistical Insights  
-✔ Team & Player Performance Analysis  
-✔ Data Visualization & Trend Discovery  
+ 
 
