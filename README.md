@@ -61,13 +61,23 @@ The overall average first-innings score across all IPL venues is **166 runs**. V
 
 ## Visualizations
 
-| Chart | Description |
-|-------|-------------|
-| `Winning Toss.png` | Toss win rate overall and by decision (bat/field) |
-| `q2_run_rate_trend.png` | Average run rate per season (2008–2024) |
-| `q3_death_over_bowlers.png` | Top 12 most economical death-over bowlers |
-| `q4_venue_analysis.png` | Average first-innings score by venue |
-| `q5_batsman_scatter.png` | Strike rate vs consistency bubble chart (top 20 batsmen) |
+### Toss Advantage
+![Toss Advantage](Winning%20Toss.png)
+
+### Run Rate Trend Across Seasons
+![Run Rate Trend](Average%20Run%20Rate.png)
+
+### Most Economical Death Over Bowlers
+![Death Over Bowlers](Economical%20Bowlers.png)
+
+### Venue Analysis
+![Venue Analysis](Average%20First%20Innings%20Score.png)
+
+### Batsman Strike Rate vs Consistency
+![Batsman Scatter](Top%2020%20IPL%20Batsmen.png)
+
+### Impact Player Score
+![Impact Player Score](Impact%20Player%20Score.png)
 
 ---
 
