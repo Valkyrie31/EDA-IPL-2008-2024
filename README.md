@@ -57,20 +57,4 @@ Impact Player Score
 
 
 
-## How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Valkyrie31/ipl-eda-analysis.git
-cd ipl-eda-analysis
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# 3. Download the dataset from Kaggle and place matches.csv
-#    and deliveries.csv in the project folder
-
-# 4. Launch the notebook
-jupyter notebook IPL_EDA_Starter.ipynb
-
 
